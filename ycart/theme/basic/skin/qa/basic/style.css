@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+#inquiry {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#inquiry_notice {
+    border: 1px solid gray;
+    border-top: 2px solid black;
+    padding: 20px;
+    background-color: lightgray;
+    width: 900px;
+    max-width: 900px;
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin: 0 auto;
+}
+
+#agreement {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
